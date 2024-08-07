@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently study at faculty of computer science at Mansoura University, on<br>
+🔭 I’m currently study at faculty of computer science at Mansoura University<br>
 🌱 I’m currently learning fondamentals of frontend as i have been finished HTML5, CSS3. <br>
 👯I’m looking to develop my skills so i have the chance to gain appropriate job. <br>
 💬 Ask me about Front-end web development.<br>
