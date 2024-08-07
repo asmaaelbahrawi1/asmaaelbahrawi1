@@ -10,7 +10,7 @@
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/asmaaelbahrawi1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asmaa-elbahrawi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/asmaaelbahrawi1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asmaa-elbahrawi)
 
 
 # 💻 Tech Stack:
