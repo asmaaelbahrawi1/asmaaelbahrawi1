@@ -11,8 +11,6 @@
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/asmaaelbahrawi1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asmaa-elbahrawi)
-
-
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/asmaaelbahrawi?mibextid=JRoKGi)
 
 
